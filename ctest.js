@@ -27,7 +27,7 @@ function colName() {
     document.getElementById('colNameResult').style.backgroundColor = c;
 }
 
-/* submit function for button - i ran into problems nesting the on-click calls together, but this seems to work */
+/* submit function for button */
 function submiT() {
     redgreenblue()
     hex()

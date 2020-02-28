@@ -1,0 +1,29 @@
+
+button{
+    font-family: sans-serif;
+      font-size: 17px;
+      background-color: rgb(116, 116, 116);
+      color: #fff;
+      border: 0px;
+      border-radius: 3px;
+      padding: 20px;
+      cursor: pointer;
+      margin-bottom: 20px;
+      
+  transition: 0.4s;
+  display: inline-block;
+  }
+
+  .button:hover {
+    background-color: #555555
+  }
+  
+  table{
+      border: 2px;
+      padding: 20px;
+  }
+
+  body{
+    background-color: rgb(33, 33, 33);
+    color: #fff;
+  }
